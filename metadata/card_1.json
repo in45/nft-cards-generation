@@ -1,0 +1,12 @@
+{
+  "name": "CryptoCard N~1",
+  "description": "Default Description for NFT Card number 1",
+  "external_url": "https://website.io/",
+  "image": "https://example.com/images/1",
+  "attributes": {
+    "backgroundColor": "#8b1966",
+    "number": 7,
+    "numberPattern": 1,
+    "score": 96
+  }
+}
