@@ -25,5 +25,5 @@ npm i
 2. Run the Script
 
 ```shell
-node generate.js
+node index.js
 ```
